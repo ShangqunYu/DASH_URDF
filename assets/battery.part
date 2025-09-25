@@ -1,0 +1,13 @@
+{
+    "configuration": "default",
+    "documentId": "8825e1f4b4a669b255403429",
+    "documentMicroversion": "7513ac26768de1367fe705a8",
+    "elementId": "26d4f34d95ed7c25d28c15af",
+    "fullConfiguration": "default",
+    "id": "MoB605NGwPQZ7BcJ5",
+    "isStandardContent": false,
+    "name": "battery <1>",
+    "partId": "JHD",
+    "suppressed": false,
+    "type": "Part"
+}
